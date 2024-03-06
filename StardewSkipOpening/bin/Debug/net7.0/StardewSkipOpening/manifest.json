@@ -1,0 +1,10 @@
+{
+    "Name": "Stardew Skip Opening",
+    "Author": "Kellen Stuart",
+    "Version": "1.0.0",
+    "Description": "A mod that allows players to skip the opening cutscene in Stardew Valley.",
+    "UniqueID": "StardewSkipOpeningScene",
+    "EntryDll": "StardewSkipOpening.dll",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rxfM/sS3tYNi1Iry8eqqwjoF5Wn/KzBXxj5e/LCkjLQKOKaLoz52N7MxGH6gZOLeji5k0aFkdDcmZHp5WTnmbw==",
+  "success": true,
+  "projectFilePath": "/Users/kellenstuart/Personal/stardew-skip-opening/StardewSkipOpening/StardewSkipOpening.csproj",
+  "expectedPackageFiles": [
+    "/Users/kellenstuart/.nuget/packages/pathoschild.stardew.modbuildconfig/4.1.1/pathoschild.stardew.modbuildconfig.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

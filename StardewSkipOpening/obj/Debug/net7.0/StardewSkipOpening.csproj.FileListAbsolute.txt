@@ -1,0 +1,8 @@
+/Users/kellenstuart/Personal/stardew-skip-opening/StardewSkipOpening/bin/Debug/net7.0/StardewSkipOpening.deps.json
+/Users/kellenstuart/Personal/stardew-skip-opening/StardewSkipOpening/bin/Debug/net7.0/StardewSkipOpening.dll
+/Users/kellenstuart/Personal/stardew-skip-opening/StardewSkipOpening/obj/Debug/net7.0/StardewSkipOpening.csproj.AssemblyReference.cache
+/Users/kellenstuart/Personal/stardew-skip-opening/StardewSkipOpening/obj/Debug/net7.0/StardewSkipOpening.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kellenstuart/Personal/stardew-skip-opening/StardewSkipOpening/obj/Debug/net7.0/StardewSkipOpening.AssemblyInfoInputs.cache
+/Users/kellenstuart/Personal/stardew-skip-opening/StardewSkipOpening/obj/Debug/net7.0/StardewSkipOpening.AssemblyInfo.cs
+/Users/kellenstuart/Personal/stardew-skip-opening/StardewSkipOpening/obj/Debug/net7.0/StardewSkipOpening.csproj.CoreCompileInputs.cache
+/Users/kellenstuart/Personal/stardew-skip-opening/StardewSkipOpening/obj/Debug/net7.0/StardewSkipOpening.dll
